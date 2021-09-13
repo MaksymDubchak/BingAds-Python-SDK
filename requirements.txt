@@ -1,4 +1,4 @@
-suds-jurko==0.6.0
+suds-community~=0.8.5
 requests>=2.0.0
 future
 six
